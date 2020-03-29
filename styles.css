@@ -64,4 +64,18 @@ header {
     margin-right: 20px;
 }
 
+#sign-in {
+	color: #fff;
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+
+	display: inline-block;
+	line-height: 28px;
+	padding: 0 12px;
+	border-radius: 2px;
+	opacity: 100%;
+}
+
 
